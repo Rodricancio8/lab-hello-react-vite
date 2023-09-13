@@ -1,0 +1,25 @@
+/* body {
+
+margin: 0;
+padding: 0
+
+}
+
+
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: blue;
+
+}
+
+.logo {
+  margin-right: 20px;
+} */
